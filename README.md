@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I am a student at UC Santa Cruz majoring in Computer Science and minoring in Statistics!
 - 🔭 I’m currently working on machine learning based cybersecurity projects as well as full stack web development projects
 - 🌱 I’m currently learning machine learning, statistics, node.js
 
