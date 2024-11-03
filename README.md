@@ -11,23 +11,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 About Me
-🎓 Third-year CS major and Stats minor at UC Santa Cruz \n
-🔐 Recent Google STEP Intern focused on Android app security and reverse engineering with the Privacy Sandbox team \n
-🔍 Machine Learning Researcher with experience in network intrusion detection systems for botnet-based attacks \n
-👯 Currently leading a clustering team in UCSC's Tech4Good Lab, exploring advanced techniques in real-time survey response clustering \n
+### Hi there! 👋
 
-🌱 What I’m Working On
-Machine Learning-Based Cybersecurity: Building robust models to detect network threats in real-time \n
-Real-Time Clustering for Dynamic Surveys: Enhancing survey platforms to capture and analyze nuanced feedback with OpenAI's API and concept induction \n 
-Web Development Projects: From sentiment analysis tools to team sponsorship websites, I'm passionate about designing and deploying impactful applications. \n
+🚀 **About Me**  
+- 🎓 Third-year CS major and Stats minor at UC Santa Cruz  
+- 🔐 Recent Google STEP Intern focused on Android app security and reverse engineering with the Privacy Sandbox team  
+- 🔍 Machine Learning Researcher with experience in network intrusion detection systems for botnet-based attacks  
+- 👯 Currently leading a clustering team in UCSC's Tech4Good Lab, exploring advanced techniques in real-time survey response clustering  
 
-💡 Skills & Technologies
-Languages: Python, Java, C++, JavaScript, TypeScript, Swift \n
-Frameworks: Angular, Django, React, Bootstrap, AWS \n
-Tools: Protocol Buffers, Git/GitHub, TensorFlow, SciKit-Learn, AWS, Bazel, OpenAI API \n
+---
 
-📫 Let's Connect! \n
-Email: shivanibelambe@gmail.com \n
-LinkedIn: linkedin.com/in/shivani-belambe/ \n
-GitHub: github.com/sbelambe \n
+🌱 **What I’m Working On**  
+- **Machine Learning-Based Cybersecurity**: Building robust models to detect network threats in real-time  
+- **Real-Time Clustering for Dynamic Surveys**: Enhancing survey platforms to capture and analyze nuanced feedback with OpenAI's API and concept induction  
+- **Web Development Projects**: From sentiment analysis tools to team sponsorship websites, I'm passionate about designing and deploying impactful applications.  
+
+---
+
+💡 **Skills & Technologies**  
+- **Languages**: Python, Java, C++, JavaScript, TypeScript, Swift  
+- **Frameworks**: Angular, Django, React, Bootstrap, AWS  
+- **Tools**: Protocol Buffers, Git/GitHub, TensorFlow, SciKit-Learn, AWS, Bazel, OpenAI API  
+
+---
+
+📫 **Let's Connect!**  
+- **Email**: shivanibelambe@gmail.com  
+- **LinkedIn**: [linkedin.com/in/shivani-belambe/](https://linkedin.com/in/shivani-belambe/)  
+- **GitHub**: [github.com/sbelambe](https://github.com/sbelambe)  
