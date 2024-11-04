@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there! 👋
 
 🚀 **About Me**  
 - 🎓 Third-year CS major and Stats minor at UC Santa Cruz  
