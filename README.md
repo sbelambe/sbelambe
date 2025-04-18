@@ -30,5 +30,3 @@ _
 - **Email**: shivanibelambe@gmail.com  
 - **LinkedIn**: [linkedin.com/in/shivani-belambe/](https://linkedin.com/in/shivani-belambe/)  
 - **GitHub**: [github.com/sbelambe](https://github.com/sbelambe)  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbelambe)](https://github.com/anuraghazra/github-readme-stats)
