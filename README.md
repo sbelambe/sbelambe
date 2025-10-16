@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 -->
 
 🚀 **About Me**  
-- 🎓 Third-year CS major and Stats minor at UC Santa Cruz  
-- 🔐 Recent Google STEP Intern focused on Android app security and reverse engineering with the Privacy Sandbox team  
-- 🔍 Machine Learning Researcher with experience in network intrusion detection systems for botnet-based attacks  
-- 👯 Currently leading a clustering team in UCSC's Tech4Good Lab, exploring advanced techniques in real-time survey response clustering  
+- 🎓 Fourth-year CS major and Stats minor at UC Santa Cruz  
 
 ---
 _
